@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1696519968 source:c:\users\roro\desktop\c++_project\42452422_nhlumbene\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
